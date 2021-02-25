@@ -1,0 +1,17 @@
+.save__btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  position: sticky;
+  top: 0;
+}
+.list__container {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.description {
+  height: 288px;
+}
